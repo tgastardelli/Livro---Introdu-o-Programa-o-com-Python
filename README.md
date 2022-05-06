@@ -1,1 +1,1 @@
-# Introdução a Programação com Python - Algoritmos e lógica de programação
+# Introducao a Programacao com Python - Algoritmos e logica de programacao
